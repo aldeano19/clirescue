@@ -6,7 +6,7 @@
 2. clone the repo in your Go path:
 
 ``` bash
-go get github.com/$github_user/clirescue.git
+go get github.com/$github_user/clirescue
 cd $GOPATH/src/github.com/clirescue
 ```
 
